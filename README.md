@@ -68,6 +68,13 @@ This dataset is intended for:
 The dataset is based entirely on publicly available reports.
 The goal is to support (not replace) subject matter experts in drafting policy recommendations.
 
+## Licence
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the dataset, including for commercial purposes, provided appropriate attribution is given.
+
+
 
 ## Citation
 
