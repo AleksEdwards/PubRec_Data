@@ -73,6 +73,8 @@ The goal is to support (not replace) subject matter experts in drafting policy r
 
 If you use PubRec-Bench in your research, please cite:
 
+If you use this dataset in academic work, please cite:
+
 ```bibtex
 @inproceedings{edwards-etal-2026-pubrecbench,
   title = {Report-based Recommendations for Policy Making and Agency Operations: Dataset and {LLM} Evaluation},
