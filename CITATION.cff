@@ -1,0 +1,23 @@
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the accompanying paper."
+title: "PubRec-Bench"
+license: CC-BY-4.0
+
+authors:
+  - family-names: Edwards
+    given-names: Aleksandra
+  - family-names: Edwards
+    given-names: Thomas
+  - family-names: Camacho-Collados
+    given-names: Jose
+  - family-names: Preece
+    given-names: Alun
+
+preferred-citation:
+  type: conference-paper
+  title: "Report-based Recommendations for Policy Making and Agency Operations: Dataset and LLM Evaluation"
+  year: 2026
+  conference:
+    name: "LREC 2026"
